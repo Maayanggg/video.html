@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.video-single {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.video-menu {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    grid-gap: 28px 28px;
+}
